@@ -1,1 +1,1 @@
-# TechTrends.github.io
+# Techtrends.github.io
